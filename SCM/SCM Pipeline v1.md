@@ -1,5 +1,3 @@
-SCM/media
-
 # **SCM Pipeline:**
 
 # ![Picture1](media/Picture1.png)
